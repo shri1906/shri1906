@@ -6,13 +6,13 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="logo" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shri1906&label=Profile%20views&color=0e75b6&style=flat" alt="shivam0626" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shri1906&label=Profile%20views&color=0e75b6&style=flat" alt="shri1906" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shivamm96073793" target="blank"><img src="https://img.shields.io/twitter/follow/shivamm96073793?logo=twitter&style=for-the-badge" alt="shivamm96073793" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs, Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://shivam0626.github.io/](https://shivam0626.github.io/)
+- 👨‍💻 All of my projects are available at [https://shri1906.github.io/](https://shri1906.github.io/)
 
 - 📫 How to reach me **shivammaurya7310@gmail.com**
 
