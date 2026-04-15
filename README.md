@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivamm96073793" target="blank"><img src="https://img.shields.io/twitter/follow/shivamm96073793?logo=twitter&style=for-the-badge" alt="shivamm96073793" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, Nodejs**
+- 🌱 Expert in Web-Development **(MERN)**
 
 - 👨‍💻 All of my projects are available at [https://shivammaurya-coder.vercel.app/](https://shivammaurya-coder.vercel.app/)
 
