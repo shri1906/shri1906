@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ReactJs, Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://shri1906.github.io/](https://shri1906.github.io/)
+- 👨‍💻 All of my projects are available at [https://shivammaurya-coder.vercel.app/](https://shivammaurya-coder.vercel.app/)
 
 - 📫 How to reach me **shivammaurya7310@gmail.com**
 
