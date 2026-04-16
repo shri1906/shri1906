@@ -48,7 +48,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwindcss,nextjs,redux,nodejs,express,mongodb,git,postman,c,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwindcss,nextjs,redux,nodejs,express,mongodb,php,mysql,phpmyadmin,git,postman,bash,chakraui,socket.io" />
 </p>
 
 <!-- ======================= STATS ======================= -->
