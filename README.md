@@ -85,7 +85,7 @@
 ## 🐍 Contribution Snake (Optional Cool Feature)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shri1906/shri1906/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/shri1906/shri1906/output/snake.svg" />
 </p>
 
 <!-- ======================= END ======================= -->
