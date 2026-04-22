@@ -7,7 +7,7 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Shivam Maurya</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=🚀+Full+Stack+Developer;MERN+Stack;" alt="Developer Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=🚀+Full+Stack+Developer;MERN+Stack+Developer;" alt="Developer Roles" />
 </div>
 
 <p align="center">
