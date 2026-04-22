@@ -6,9 +6,8 @@
 
 <h1 align="center">Hi 👋, I'm Shivam Maurya</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=🚀+Full+Stack+Developer;MERN+Stack;OWASP+CONTRIBUTER;APPSEC+ENGINEER;ETHICAL+HACKER" alt="Hacker Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=🚀+Full+Stack+Developer;MERN+Stack;" alt="Devveloper Roles" />
 </div>
-<h3 align="center">🌐 India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shri1906&label=Profile%20views&color=0e75b6&style=flat" />
