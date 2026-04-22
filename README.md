@@ -4,9 +4,10 @@
   <img src="https://user-images.githubusercontent.com/101569590/201851468-17c593dd-8171-451a-8b04-9963d67989ef.png" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shivam Maurya</h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> , I'm Shivam Maurya</h1>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=🚀+Full+Stack+Developer;MERN+Stack;" alt="Devveloper Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=🚀+Full+Stack+Developer;MERN+Stack;" alt="Developer Roles" />
 </div>
 
 <p align="center">
@@ -17,7 +18,7 @@
 
 <!-- ======================= ABOUT ======================= -->
 
-## 🧑‍💻 About Me (JSON Style)
+## 🧑‍💻 About Me
 
 ```json
 {
