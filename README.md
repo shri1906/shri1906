@@ -54,16 +54,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwindcss,nextjs,redux,nodejs,express,mongodb,php,mysql,git,postman,bash,vercel,vscode,github" />
 </p>
 
-<!-- ======================= STATS ======================= -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shri1906&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=shri1906&theme=tokyonight&hide_border=true" height="165" />
+  <img src="./github-metrics.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri1906&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./languages.svg" width="48%" />
+  <img src="./achievements.svg" width="48%" />
 </p>
 <!-- ======================= EXTRA ======================= -->
 
