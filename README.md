@@ -7,7 +7,7 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Shivam Maurya</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=🚀+Full+Stack+Developer;MERN+Stack+Developer;" alt="Developer Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Developer;MERN+Stack+Developer;" alt="Developer Roles" />
 </div>
 
 <p align="center">
@@ -55,20 +55,10 @@
 </p>
 
 <!-- ======================= STATS ======================= -->
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shri1906&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=shri1906&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri1906&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shri1906&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&line=00FF00&point=FFFFFF" width="800"/>
+  <img src="./github-metrics.svg" width="900" alt="GitHub Metrics"/>
 </p>
 <!-- ======================= EXTRA ======================= -->
 
