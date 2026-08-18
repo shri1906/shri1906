@@ -59,16 +59,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shri1906&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shri1906&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shri1906&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=shri1906&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shri1906&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri1906&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shri1906&custom_title=Shivam's%20Underground%20Contributions&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&line=00FF00&point=FFFFFF" width="800"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shri1906&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&line=00FF00&point=FFFFFF" width="800"/>
 </p>
 <!-- ======================= EXTRA ======================= -->
 
