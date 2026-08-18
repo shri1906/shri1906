@@ -60,10 +60,6 @@
   <img src="./github-metrics.svg" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./languages.svg" width="48%" />
-  <img src="./achievements.svg" width="48%" />
-</p>
 <!-- ======================= EXTRA ======================= -->
 
 ## 🚀 Current Focus
