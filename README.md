@@ -58,7 +58,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./github-metrics.svg" width="900" alt="GitHub Metrics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shri1906&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=shri1906&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri1906&layout=compact&theme=tokyonight"/>
 </p>
 <!-- ======================= EXTRA ======================= -->
 
